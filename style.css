@@ -1,0 +1,60 @@
+body{
+
+    background-image: url("stock-vector-abstract-white-background-minimal-geometric-white-light-background-abstract-design-2281284523.jpg");
+
+    background-size: no-repeat;
+
+    background-size: cover;
+
+    background-position-x: center;
+
+}
+.section {
+    margin-top: 4rem;
+    padding-top: 4rem;
+}
+.section:last-of-type {
+    padding-bottom: 4rem;
+}
+
+.image_about {
+    width: 100%;
+}
+ .social-icons {
+    font-size: 45px;
+    cursor: pointer;
+}
+.fa-facebook:hover,
+.fa-instagram:hover,
+.fa-twitter:hover
+{
+    color: #ffffff;
+}
+.fab {
+    color: #1c90d7;
+}
+
+.servicesText.card {
+    height: 280px;
+    cursor: pointer;
+  }
+.servicesIcon {
+    font-size: 36px;
+    text-align: center;
+    width: 100%;
+    color: #969be0;
+}
+.card-title {
+    text-align: center;
+}
+.card:hover .servicesIcon {
+    color: #674fae;
+}
+.servicesText:hover {
+    border: 1px solid #c801f0;
+}
+
+.footer {
+    background-color: #000000;
+    text-align: center;
+}
